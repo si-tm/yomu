@@ -1,5 +1,7 @@
 # 読むべきリスト
 # 研究
+# 資格
+- [統計検定](https://www.toukei-kentei.jp/)
 # チートシート
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
