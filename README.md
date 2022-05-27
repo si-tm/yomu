@@ -2,6 +2,7 @@
 # 研究
 # 資格
 - [統計検定](https://www.toukei-kentei.jp/) : 2022年11月20日試験,試験要項は2022年8月中旬
+- [応用情報](https://www.jitec.ipa.go.jp/1_02annai/_index_annai.html) : 7月申し込み
 # チートシート
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
