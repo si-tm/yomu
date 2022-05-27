@@ -2,6 +2,7 @@
 # 研究
 # チートシート
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
+- [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
 # 情報
 - [ブロックチェーン](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163477)
 - [転移学習](https://www.slideshare.net/techblogyahoo/ss-251672433)
