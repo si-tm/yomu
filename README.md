@@ -1,7 +1,7 @@
 # 読むべきリスト
 # 研究
 # 資格
-- [統計検定](https://www.toukei-kentei.jp/)
+- [統計検定](https://www.toukei-kentei.jp/) : 2022年11月20日試験,試験要項は2022年8月中旬
 # チートシート
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
