@@ -4,6 +4,7 @@
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
 # 情報
+- [ディープラーニング入門Chainer チュートリアル](https://tutorials.chainer.org/ja/)
 - [ブロックチェーン](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163477)
 - [転移学習](https://www.slideshare.net/techblogyahoo/ss-251672433)
 - [MicrosoftがGitHubで公開している教材](https://qiita.com/ozora/items/9c801d3b0137eccc32fa)
