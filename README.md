@@ -9,6 +9,7 @@
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
 - [jupyter notebook](https://qiita.com/zawawahoge/items/baa2a5318df079c5f7e5)
+- [latex](https://coicos.net/site/how2/tex/cheatsheet/)
 # 情報
 - [ディープラーニング入門Chainer チュートリアル](https://tutorials.chainer.org/ja/)
 - [ブロックチェーン](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163477)
