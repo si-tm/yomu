@@ -2,7 +2,7 @@
 # 研究
 ## Reservoir
 - [Temperature-based inputs for molecular reservoir computers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HZ6RPdYAAAAJ&cstart=20&pagesize=80&citation_for_view=HZ6RPdYAAAAJ:7PzlFSSx8tAC)
-- [分子ロボティクス概論](https://drive.google.com/file/d/1TaYRD7adUFRZTGFueKumZsTKh_mcQTC4/view?usp=sharing)
+- [分子ロボティクス概論](https://drive.google.com/file/d/1TaYRD7adUFRZTGFueKumZsTKh_mcQTC4/view?usp=sharing) [メモ](https://docs.google.com/document/d/1-gzJ9Au_8FG0VM4hcq35HLK1pLcH1NiM31ri4q9D5B8/edit?usp=sharing)
 # 資格
 - [統計検定](https://www.toukei-kentei.jp/) : 2022年11月20日試験,試験要項は2022年8月中旬
 - [応用情報](https://www.jitec.ipa.go.jp/1_02annai/_index_annai.html) : 7月申し込み
