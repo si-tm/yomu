@@ -20,5 +20,6 @@
 - [AtCoder アルゴリズム問題集](https://atcoder.jp/contests/math-and-algorithm)
 # 便利
 - [jupyter notebook](https://qiita.com/simonritchie/items/d7dccb798f0b9c8b1ec5)
+- [python code examples](https://www.programcreek.com/python/)
 # その他
 - [高校生向け授業動画・教員向け解説動画：金融庁](https://www.fsa.go.jp/ordinary/douga.html)
