@@ -5,7 +5,7 @@
 - [分子ロボティクス概論](https://drive.google.com/file/d/1TaYRD7adUFRZTGFueKumZsTKh_mcQTC4/view?usp=sharing) [メモ](https://docs.google.com/document/d/1-gzJ9Au_8FG0VM4hcq35HLK1pLcH1NiM31ri4q9D5B8/edit?usp=sharing)
 # 資格
 - [統計検定](https://www.toukei-kentei.jp/) : 2022年11月20日試験,試験要項は2022年8月中旬
-- [応用情報](https://www.jitec.ipa.go.jp/1_02annai/_index_annai.html) : 7月申し込み
+- [応用情報](https://www.jitec.ipa.go.jp/1_02annai/_index_annai.html) : [令和4年度秋期試験案内書 10/9実施](https://www.jitec.ipa.go.jp/1_01mosikomi/annai_pd_04a.html)
 # チートシート
 - [scikit learn](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [git](https://training.github.com/downloads/ja/github-git-cheat-sheet/)
